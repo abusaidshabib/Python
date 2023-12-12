@@ -1,0 +1,11 @@
+name = "Md. Abu Said Shabib"
+print(len(name))
+print(name.find("M"))
+print(name.capitalize())
+print(name.upper())
+print(name.lower())
+print(name.isdigit())
+print(name.isalpha())
+print(name.count("S"))
+print(name.replace("S", "A"))
+print(name*3)
